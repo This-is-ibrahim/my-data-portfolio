@@ -1,35 +1,33 @@
 # Data Portfolio
 
-A collection of Dashboards and analytics projects.
-
 # Dashboards
 
 ## Car Insurance Dashboard
-![Car insurance Dashboard](Carinsurance-dashboard.png)
+![Car insurance Dashboard](Car_insurance.png.png)
 
 ---
 
 ## Global Airplane Dashboard
-![Global Airplane Dashboard](GlobalAirplane-dashboard.png)
+![Global Airplane Dashboard](GlobalAiplane.PNG.png)
 
 ---
 
 ## Global debt Dashboard
-![Global Debt Dashboard](GlobalDebt-dashboard.png)
+![Global Debt Dashboard](Global_Debt.PNG.png)
 
 ---
 
 ## Health Insurance Dashboard
-![Health insurance Dashboard](Healthinsurance-dashboard.png)
+![Health insurance Dashboard](Health_insurance.PNG.png)
 
 
 ## Sales Analysis Dashboard
-![Sales Analysis Dashboard](SalesAnalysis-dashboard.png)
+![Sales Analysis Dashboard](Sales_Analysis.PNG.png)
 
 
 ## Womnen's Clothing Dashboard
-![Women's clothing Dashboard](Women'sclothing-dashboard.png)
+![Women's clothing Dashboard](Women'sclothing.PNG.png)
 
 ## Digital Marketingg Dashboard
-![Marketing Dashboard](marketing-dashboard.png)
+![Marketing Dashboard](digital_marketing.png.png)
 
