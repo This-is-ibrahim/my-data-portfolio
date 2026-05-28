@@ -3,26 +3,29 @@
 # Dashboards
 
 ## Car Insurance Dashboard
-![Car insurance Dashboard](Car_insurance.png.png)
+![car Insurance Dashboard](car-insurance-dashboard.png)
 
-## Global Airplane Dashboard
-![Global Airplane Dashboard](GlobalAiplane.PNG.png)
+## digital-marketing-dashboard
+![digital-marketing-dashboard](digital-marketing-dashboard.png)
 
-## Global debt Dashboard
-![Global Debt Dashboard](Global_Debt.PNG.png)
+## global-airplane-dashboard
+![global-airplane-dashboard](global-airplane-dashboard.png)
 
-## Health Insurance Dashboard
-![Health insurance Dashboard](Health_insurance.PNG.png)
+## global-debt-dashboard
+![global-debt-Dashboard](global-debt-dashboard.png)
 
-## Global_Mental_Health Dashboard
-![Global_Mental_Health Dashboard](Global_Mental_Health.PNG.png)
+## global-mental-health-dashboard
+![global-mental-health-dashboard](global-mental-health-dashboard.png)
 
-## Sales Analysis Dashboard
-![Sales Analysis Dashboard](Sales_Analysis.PNG.png)
+## health-insurance-dashboard
+![health-insurance-dashboard](health-insurance-dashboard.png)
 
-## Womnen's Clothing Dashboard
-![Women's clothing Dashboard](Women'sclothing.PNG.png)
+## sales-analysis-dashboard
+![sales-analysis-dashboard](sales-analysis-dashboard.png)
 
-## Digital Marketingg Dashboard
-![Marketing Dashboard](digital_marketing.png.png)
+## sales-analysis-performance
+![sales-analysis-performance](sales-analysis-performance.png)
+
+## womens-clothing-dashboard
+![womens-clothing-dashboard](womens-clothing-dashboard.png)
 
